@@ -1,0 +1,41 @@
+{
+    "os": "Windows-10-10.0.19044-SP0",
+    "python": "3.9.16",
+    "heartbeatAt": "2023-03-25T13:53:37.716137",
+    "startedAt": "2023-03-25T13:53:35.711665",
+    "docker": null,
+    "cuda": null,
+    "args": null,
+    "state": "running",
+    "program": "Downloads/low_light_inhancement.ipynb",
+    "root": "C:/Users/ayush.saxena/Downloads/MIRNet",
+    "git": {
+        "remote": "https://github.com/soumik12345/MIRNet",
+        "commit": "c6812f5bc4ac87e4e63af21aa4e0db84597a17c8"
+    },
+    "email": null,
+    "host": "GEMGN-200104",
+    "username": "Ayush.Saxena",
+    "executable": "C:\\Users\\ayush.saxena\\.conda\\envs\\TrainingEnv\\python.exe",
+    "cpu_count": 4,
+    "cpu_count_logical": 8,
+    "cpu_freq": {
+        "current": 1600.0,
+        "min": 0.0,
+        "max": 1800.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 1600.0,
+            "min": 0.0,
+            "max": 1800.0
+        }
+    ],
+    "disk": {
+        "total": 465.1477699279785,
+        "used": 80.79428100585938
+    },
+    "memory": {
+        "total": 15.879127502441406
+    }
+}

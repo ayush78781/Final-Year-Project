@@ -1,0 +1,173 @@
+
+[34m[1mwandb[39m[22m: [33mWARNING[39m The save_model argument by default saves the model in the HDF5 format that cannot save custom objects like subclassed models and custom layers. This behavior will be deprecated in a future release in favor of the SavedModel format. Meanwhile, the HDF5 model is saved as W&B files and the SavedModel as W&B Artifacts.
+Epoch 1/40
+WARNING:tensorflow:Can save best model only with val_psnr available, skipping.
+
+  1/242 [..............................] - ETA: 18:24:43 - loss: 0.3594 - psnr: 55.7952WARNING:tensorflow:Can save best model only with val_psnr available, skipping.
+
+  2/242 [..............................] - ETA: 22:29:40 - loss: 0.2566 - psnr: 59.2978WARNING:tensorflow:Can save best model only with val_psnr available, skipping.
+
+  3/242 [..............................] - ETA: 14:06:54 - loss: 0.2588 - psnr: 59.0268WARNING:tensorflow:Can save best model only with val_psnr available, skipping.
+  4/242 [..............................] - ETA: 11:03:10 - loss: 0.2627 - psnr: 59.0210WARNING:tensorflow:Can save best model only with val_psnr available, skipping.
+  5/242 [..............................] - ETA: 9:04:35 - loss: 0.2658 - psnr: 59.0107 WARNING:tensorflow:Can save best model only with val_psnr available, skipping.
+  6/242 [..............................] - ETA: 7:51:01 - loss: 0.2555 - psnr: 59.3724WARNING:tensorflow:Can save best model only with val_psnr available, skipping.
+  7/242 [..............................] - ETA: 7:01:26 - loss: 0.2784 - psnr: 58.8276WARNING:tensorflow:Can save best model only with val_psnr available, skipping.
+  8/242 [..............................] - ETA: 6:25:41 - loss: 0.2606 - psnr: 59.6064WARNING:tensorflow:Can save best model only with val_psnr available, skipping.
+  9/242 [>.............................] - ETA: 5:58:49 - loss: 0.2616 - psnr: 59.5597WARNING:tensorflow:Can save best model only with val_psnr available, skipping.
+ 10/242 [>.............................] - ETA: 5:37:37 - loss: 0.2597 - psnr: 59.5707WARNING:tensorflow:Can save best model only with val_psnr available, skipping.
+ 11/242 [>.............................] - ETA: 5:20:38 - loss: 0.2481 - psnr: 59.9975WARNING:tensorflow:Can save best model only with val_psnr available, skipping.
+ 12/242 [>.............................] - ETA: 5:06:31 - loss: 0.2368 - psnr: 60.4591WARNING:tensorflow:Can save best model only with val_psnr available, skipping.
+ 13/242 [>.............................] - ETA: 4:54:47 - loss: 0.2270 - psnr: 60.7686WARNING:tensorflow:Can save best model only with val_psnr available, skipping.
+ 14/242 [>.............................] - ETA: 4:44:34 - loss: 0.2183 - psnr: 61.1503WARNING:tensorflow:Can save best model only with val_psnr available, skipping.
+ 15/242 [>.............................] - ETA: 4:35:50 - loss: 0.2163 - psnr: 61.3448WARNING:tensorflow:Can save best model only with val_psnr available, skipping.
+ 16/242 [>.............................] - ETA: 4:28:09 - loss: 0.2165 - psnr: 61.3482WARNING:tensorflow:Can save best model only with val_psnr available, skipping.
+ 17/242 [=>............................] - ETA: 4:21:17 - loss: 0.2125 - psnr: 61.4662WARNING:tensorflow:Can save best model only with val_psnr available, skipping.
+ 18/242 [=>............................] - ETA: 4:15:22 - loss: 0.2080 - psnr: 61.6037WARNING:tensorflow:Can save best model only with val_psnr available, skipping.
+ 19/242 [=>............................] - ETA: 4:09:59 - loss: 0.2084 - psnr: 61.5504WARNING:tensorflow:Can save best model only with val_psnr available, skipping.
+
+ 20/242 [=>............................] - ETA: 4:05:43 - loss: 0.2013 - psnr: 61.9582WARNING:tensorflow:Can save best model only with val_psnr available, skipping.
+ 21/242 [=>............................] - ETA: 4:01:32 - loss: 0.1998 - psnr: 61.9756WARNING:tensorflow:Can save best model only with val_psnr available, skipping.
+ 22/242 [=>............................] - ETA: 3:57:39 - loss: 0.2022 - psnr: 61.8783WARNING:tensorflow:Can save best model only with val_psnr available, skipping.
+ 23/242 [=>............................] - ETA: 3:54:24 - loss: 0.2028 - psnr: 61.8472WARNING:tensorflow:Can save best model only with val_psnr available, skipping.
+ 24/242 [=>............................] - ETA: 3:50:54 - loss: 0.1992 - psnr: 61.9769WARNING:tensorflow:Can save best model only with val_psnr available, skipping.
+ 25/242 [==>...........................] - ETA: 3:47:35 - loss: 0.2014 - psnr: 61.8942WARNING:tensorflow:Can save best model only with val_psnr available, skipping.
+ 26/242 [==>...........................] - ETA: 3:44:26 - loss: 0.1986 - psnr: 62.0085WARNING:tensorflow:Can save best model only with val_psnr available, skipping.
+ 27/242 [==>...........................] - ETA: 3:41:31 - loss: 0.1955 - psnr: 62.1312WARNING:tensorflow:Can save best model only with val_psnr available, skipping.
+ 28/242 [==>...........................] - ETA: 3:38:46 - loss: 0.1945 - psnr: 62.1888WARNING:tensorflow:Can save best model only with val_psnr available, skipping.
+ 29/242 [==>...........................] - ETA: 3:36:06 - loss: 0.1905 - psnr: 62.4002WARNING:tensorflow:Can save best model only with val_psnr available, skipping.
+
+ 30/242 [==>...........................] - ETA: 3:33:43 - loss: 0.1903 - psnr: 62.4144WARNING:tensorflow:Can save best model only with val_psnr available, skipping.
+ 31/242 [==>...........................] - ETA: 3:32:12 - loss: 0.1866 - psnr: 62.5976WARNING:tensorflow:Can save best model only with val_psnr available, skipping.
+ 32/242 [==>...........................] - ETA: 3:30:05 - loss: 0.1824 - psnr: 62.8538WARNING:tensorflow:Can save best model only with val_psnr available, skipping.
+ 33/242 [===>..........................] - ETA: 3:27:51 - loss: 0.1812 - psnr: 62.9225WARNING:tensorflow:Can save best model only with val_psnr available, skipping.
+ 34/242 [===>..........................] - ETA: 3:25:46 - loss: 0.1824 - psnr: 62.8228WARNING:tensorflow:Can save best model only with val_psnr available, skipping.
+ 35/242 [===>..........................] - ETA: 3:23:43 - loss: 0.1812 - psnr: 62.8540WARNING:tensorflow:Can save best model only with val_psnr available, skipping.
+ 36/242 [===>..........................] - ETA: 3:21:49 - loss: 0.1780 - psnr: 62.9984WARNING:tensorflow:Can save best model only with val_psnr available, skipping.
+ 37/242 [===>..........................] - ETA: 3:20:02 - loss: 0.1792 - psnr: 62.9204WARNING:tensorflow:Can save best model only with val_psnr available, skipping.
+ 38/242 [===>..........................] - ETA: 3:18:13 - loss: 0.1790 - psnr: 62.9041WARNING:tensorflow:Can save best model only with val_psnr available, skipping.
+ 39/242 [===>..........................] - ETA: 3:16:23 - loss: 0.1778 - psnr: 62.9304WARNING:tensorflow:Can save best model only with val_psnr available, skipping.
+ 40/242 [===>..........................] - ETA: 3:14:36 - loss: 0.1799 - psnr: 62.8384WARNING:tensorflow:Can save best model only with val_psnr available, skipping.
+ 41/242 [====>.........................] - ETA: 3:13:01 - loss: 0.1802 - psnr: 62.8118WARNING:tensorflow:Can save best model only with val_psnr available, skipping.
+ 42/242 [====>.........................] - ETA: 3:11:24 - loss: 0.1825 - psnr: 62.7084WARNING:tensorflow:Can save best model only with val_psnr available, skipping.
+ 43/242 [====>.........................] - ETA: 3:09:49 - loss: 0.1844 - psnr: 62.6167WARNING:tensorflow:Can save best model only with val_psnr available, skipping.
+ 44/242 [====>.........................] - ETA: 3:08:17 - loss: 0.1837 - psnr: 62.6218WARNING:tensorflow:Can save best model only with val_psnr available, skipping.
+ 45/242 [====>.........................] - ETA: 3:06:50 - loss: 0.1827 - psnr: 62.6621WARNING:tensorflow:Can save best model only with val_psnr available, skipping.
+ 46/242 [====>.........................] - ETA: 3:05:21 - loss: 0.1830 - psnr: 62.6184WARNING:tensorflow:Can save best model only with val_psnr available, skipping.
+ 47/242 [====>.........................] - ETA: 3:03:57 - loss: 0.1842 - psnr: 62.5630WARNING:tensorflow:Can save best model only with val_psnr available, skipping.
+ 48/242 [====>.........................] - ETA: 3:02:32 - loss: 0.1848 - psnr: 62.5190WARNING:tensorflow:Can save best model only with val_psnr available, skipping.
+ 49/242 [=====>........................] - ETA: 3:01:13 - loss: 0.1845 - psnr: 62.5079WARNING:tensorflow:Can save best model only with val_psnr available, skipping.
+ 50/242 [=====>........................] - ETA: 2:59:50 - loss: 0.1842 - psnr: 62.5068WARNING:tensorflow:Can save best model only with val_psnr available, skipping.
+ 51/242 [=====>........................] - ETA: 2:58:48 - loss: 0.1830 - psnr: 62.5801WARNING:tensorflow:Can save best model only with val_psnr available, skipping.
+ 52/242 [=====>........................] - ETA: 2:57:49 - loss: 0.1821 - psnr: 62.6042WARNING:tensorflow:Can save best model only with val_psnr available, skipping.
+ 53/242 [=====>........................] - ETA: 2:56:45 - loss: 0.1812 - psnr: 62.6502WARNING:tensorflow:Can save best model only with val_psnr available, skipping.
+ 54/242 [=====>........................] - ETA: 2:55:36 - loss: 0.1796 - psnr: 62.7262WARNING:tensorflow:Can save best model only with val_psnr available, skipping.
+ 55/242 [=====>........................] - ETA: 2:54:31 - loss: 0.1787 - psnr: 62.7745WARNING:tensorflow:Can save best model only with val_psnr available, skipping.
+ 56/242 [=====>........................] - ETA: 2:53:26 - loss: 0.1785 - psnr: 62.7601WARNING:tensorflow:Can save best model only with val_psnr available, skipping.
+ 57/242 [======>.......................] - ETA: 2:52:21 - loss: 0.1777 - psnr: 62.7934WARNING:tensorflow:Can save best model only with val_psnr available, skipping.
+ 58/242 [======>.......................] - ETA: 2:51:23 - loss: 0.1779 - psnr: 62.7674WARNING:tensorflow:Can save best model only with val_psnr available, skipping.
+ 59/242 [======>.......................] - ETA: 2:50:16 - loss: 0.1785 - psnr: 62.7301WARNING:tensorflow:Can save best model only with val_psnr available, skipping.
+ 60/242 [======>.......................] - ETA: 2:49:10 - loss: 0.1783 - psnr: 62.7263WARNING:tensorflow:Can save best model only with val_psnr available, skipping.
+ 61/242 [======>.......................] - ETA: 2:48:08 - loss: 0.1776 - psnr: 62.7507WARNING:tensorflow:Can save best model only with val_psnr available, skipping.
+ 62/242 [======>.......................] - ETA: 2:47:03 - loss: 0.1766 - psnr: 62.7867WARNING:tensorflow:Can save best model only with val_psnr available, skipping.
+ 63/242 [======>.......................] - ETA: 2:45:57 - loss: 0.1762 - psnr: 62.7997WARNING:tensorflow:Can save best model only with val_psnr available, skipping.
+ 64/242 [======>.......................] - ETA: 2:44:59 - loss: 0.1758 - psnr: 62.8098WARNING:tensorflow:Can save best model only with val_psnr available, skipping.
+ 65/242 [=======>......................] - ETA: 2:44:01 - loss: 0.1753 - psnr: 62.8359WARNING:tensorflow:Can save best model only with val_psnr available, skipping.
+ 66/242 [=======>......................] - ETA: 2:42:59 - loss: 0.1769 - psnr: 62.7656WARNING:tensorflow:Can save best model only with val_psnr available, skipping.
+ 67/242 [=======>......................] - ETA: 2:41:58 - loss: 0.1766 - psnr: 62.7690WARNING:tensorflow:Can save best model only with val_psnr available, skipping.
+ 68/242 [=======>......................] - ETA: 2:40:54 - loss: 0.1770 - psnr: 62.7386WARNING:tensorflow:Can save best model only with val_psnr available, skipping.
+ 69/242 [=======>......................] - ETA: 2:39:49 - loss: 0.1767 - psnr: 62.7393WARNING:tensorflow:Can save best model only with val_psnr available, skipping.
+ 70/242 [=======>......................] - ETA: 2:38:49 - loss: 0.1775 - psnr: 62.6944WARNING:tensorflow:Can save best model only with val_psnr available, skipping.
+ 71/242 [=======>......................] - ETA: 2:37:46 - loss: 0.1774 - psnr: 62.6835WARNING:tensorflow:Can save best model only with val_psnr available, skipping.
+ 72/242 [=======>......................] - ETA: 2:36:42 - loss: 0.1792 - psnr: 62.6160WARNING:tensorflow:Can save best model only with val_psnr available, skipping.
+ 73/242 [========>.....................] - ETA: 2:35:38 - loss: 0.1794 - psnr: 62.5996WARNING:tensorflow:Can save best model only with val_psnr available, skipping.
+ 74/242 [========>.....................] - ETA: 2:34:37 - loss: 0.1799 - psnr: 62.5639WARNING:tensorflow:Can save best model only with val_psnr available, skipping.
+ 75/242 [========>.....................] - ETA: 2:33:37 - loss: 0.1801 - psnr: 62.5386WARNING:tensorflow:Can save best model only with val_psnr available, skipping.
+ 76/242 [========>.....................] - ETA: 2:32:33 - loss: 0.1804 - psnr: 62.5104WARNING:tensorflow:Can save best model only with val_psnr available, skipping.
+ 77/242 [========>.....................] - ETA: 2:31:36 - loss: 0.1794 - psnr: 62.5607WARNING:tensorflow:Can save best model only with val_psnr available, skipping.
+ 78/242 [========>.....................] - ETA: 2:30:40 - loss: 0.1789 - psnr: 62.5932WARNING:tensorflow:Can save best model only with val_psnr available, skipping.
+ 79/242 [========>.....................] - ETA: 2:29:37 - loss: 0.1783 - psnr: 62.6110WARNING:tensorflow:Can save best model only with val_psnr available, skipping.
+ 80/242 [========>.....................] - ETA: 2:28:35 - loss: 0.1793 - psnr: 62.5586WARNING:tensorflow:Can save best model only with val_psnr available, skipping.
+ 81/242 [=========>....................] - ETA: 2:27:33 - loss: 0.1822 - psnr: 62.4734WARNING:tensorflow:Can save best model only with val_psnr available, skipping.
+
+ 82/242 [=========>....................] - ETA: 2:26:34 - loss: 0.1832 - psnr: 62.4285WARNING:tensorflow:Can save best model only with val_psnr available, skipping.
+ 83/242 [=========>....................] - ETA: 2:26:17 - loss: 0.1833 - psnr: 62.4097WARNING:tensorflow:Can save best model only with val_psnr available, skipping.
+ 84/242 [=========>....................] - ETA: 2:32:30 - loss: 0.1837 - psnr: 62.3837WARNING:tensorflow:Can save best model only with val_psnr available, skipping.
+ 85/242 [=========>....................] - ETA: 2:31:38 - loss: 0.1835 - psnr: 62.3806WARNING:tensorflow:Can save best model only with val_psnr available, skipping.
+ 86/242 [=========>....................] - ETA: 2:30:17 - loss: 0.1830 - psnr: 62.3964WARNING:tensorflow:Can save best model only with val_psnr available, skipping.
+ 87/242 [=========>....................] - ETA: 2:28:59 - loss: 0.1832 - psnr: 62.3789WARNING:tensorflow:Can save best model only with val_psnr available, skipping.
+ 88/242 [=========>....................] - ETA: 2:27:48 - loss: 0.1834 - psnr: 62.3557WARNING:tensorflow:Can save best model only with val_psnr available, skipping.
+ 89/242 [==========>...................] - ETA: 2:26:47 - loss: 0.1841 - psnr: 62.3179WARNING:tensorflow:Can save best model only with val_psnr available, skipping.
+ 90/242 [==========>...................] - ETA: 2:25:42 - loss: 0.1838 - psnr: 62.3199WARNING:tensorflow:Can save best model only with val_psnr available, skipping.
+ 91/242 [==========>...................] - ETA: 2:24:44 - loss: 0.1844 - psnr: 62.2872WARNING:tensorflow:Can save best model only with val_psnr available, skipping.
+ 92/242 [==========>...................] - ETA: 2:23:42 - loss: 0.1848 - psnr: 62.2598WARNING:tensorflow:Can save best model only with val_psnr available, skipping.
+ 93/242 [==========>...................] - ETA: 2:22:37 - loss: 0.1851 - psnr: 62.2440WARNING:tensorflow:Can save best model only with val_psnr available, skipping.
+
+ 94/242 [==========>...................] - ETA: 2:21:41 - loss: 0.1869 - psnr: 62.1811WARNING:tensorflow:Can save best model only with val_psnr available, skipping.
+
+ 95/242 [==========>...................] - ETA: 2:21:39 - loss: 0.1873 - psnr: 62.1577WARNING:tensorflow:Can save best model only with val_psnr available, skipping.
+ 96/242 [==========>...................] - ETA: 2:21:50 - loss: 0.1878 - psnr: 62.1326WARNING:tensorflow:Can save best model only with val_psnr available, skipping.
+ 97/242 [===========>..................] - ETA: 2:21:07 - loss: 0.1882 - psnr: 62.1078WARNING:tensorflow:Can save best model only with val_psnr available, skipping.
+ 98/242 [===========>..................] - ETA: 2:20:12 - loss: 0.1887 - psnr: 62.0760WARNING:tensorflow:Can save best model only with val_psnr available, skipping.
+100/242 [===========>..................] - ETA: 24:53:27 - loss: 0.1896 - psnr: 62.0141ARNING:tensorflow:Can save best model only with val_psnr available, skipping.
+101/242 [===========>..................] - ETA: 24:29:16 - loss: 0.1899 - psnr: 61.9955WARNING:tensorflow:Can save best model only with val_psnr available, skipping.
+101/242 [===========>..................] - ETA: 24:29:16 - loss: 0.1899 - psnr: 61.9955WARNING:tensorflow:Can save best model only with val_psnr available, skipping.
+
+103/242 [===========>..................] - ETA: 23:42:13 - loss: 0.1905 - psnr: 61.9609WARNING:tensorflow:Can save best model only with val_psnr available, skipping.
+104/242 [===========>..................] - ETA: 23:19:22 - loss: 0.1912 - psnr: 61.9298WARNING:tensorflow:Can save best model only with val_psnr available, skipping.
+104/242 [===========>..................] - ETA: 23:19:22 - loss: 0.1912 - psnr: 61.9298WARNING:tensorflow:Can save best model only with val_psnr available, skipping.
+105/242 [============>.................] - ETA: 22:57:28 - loss: 0.1916 - psnr: 61.9069WARNING:tensorflow:Can save best model only with val_psnr available, skipping.
+105/242 [============>.................] - ETA: 22:57:28 - loss: 0.1916 - psnr: 61.9069WARNING:tensorflow:Can save best model only with val_psnr available, skipping.
+106/242 [============>.................] - ETA: 22:36:26 - loss: 0.1918 - psnr: 61.8921WARNING:tensorflow:Can save best model only with val_psnr available, skipping.
+106/242 [============>.................] - ETA: 22:36:26 - loss: 0.1918 - psnr: 61.8921WARNING:tensorflow:Can save best model only with val_psnr available, skipping.
+107/242 [============>.................] - ETA: 22:15:40 - loss: 0.1926 - psnr: 61.8582WARNING:tensorflow:Can save best model only with val_psnr available, skipping.
+108/242 [============>.................] - ETA: 21:55:04 - loss: 0.1931 - psnr: 61.8361WARNING:tensorflow:Can save best model only with val_psnr available, skipping.
+109/242 [============>.................] - ETA: 21:34:15 - loss: 0.1946 - psnr: 61.7850WARNING:tensorflow:Can save best model only with val_psnr available, skipping.
+109/242 [============>.................] - ETA: 21:34:15 - loss: 0.1946 - psnr: 61.7850WARNING:tensorflow:Can save best model only with val_psnr available, skipping.
+110/242 [============>.................] - ETA: 21:15:48 - loss: 0.1944 - psnr: 61.7925WARNING:tensorflow:Can save best model only with val_psnr available, skipping.
+110/242 [============>.................] - ETA: 21:15:48 - loss: 0.1944 - psnr: 61.7925WARNING:tensorflow:Can save best model only with val_psnr available, skipping.
+111/242 [============>.................] - ETA: 20:56:36 - loss: 0.1950 - psnr: 61.7621WARNING:tensorflow:Can save best model only with val_psnr available, skipping.
+112/242 [============>.................] - ETA: 20:39:01 - loss: 0.1960 - psnr: 61.7338WARNING:tensorflow:Can save best model only with val_psnr available, skipping.
+113/242 [=============>................] - ETA: 20:19:34 - loss: 0.1965 - psnr: 61.7093WARNING:tensorflow:Can save best model only with val_psnr available, skipping.
+113/242 [=============>................] - ETA: 20:19:34 - loss: 0.1965 - psnr: 61.7093WARNING:tensorflow:Can save best model only with val_psnr available, skipping.
+115/242 [=============>................] - ETA: 19:41:42 - loss: 0.1963 - psnr: 61.7068WARNING:tensorflow:Can save best model only with val_psnr available, skipping.
+115/242 [=============>................] - ETA: 19:41:42 - loss: 0.1963 - psnr: 61.7068WARNING:tensorflow:Can save best model only with val_psnr available, skipping.
+116/242 [=============>................] - ETA: 19:23:21 - loss: 0.1964 - psnr: 61.6953WARNING:tensorflow:Can save best model only with val_psnr available, skipping.
+116/242 [=============>................] - ETA: 19:23:21 - loss: 0.1964 - psnr: 61.6953WARNING:tensorflow:Can save best model only with val_psnr available, skipping.
+117/242 [=============>................] - ETA: 19:05:22 - loss: 0.1960 - psnr: 61.7120WARNING:tensorflow:Can save best model only with val_psnr available, skipping.
+117/242 [=============>................] - ETA: 19:05:22 - loss: 0.1960 - psnr: 61.7120WARNING:tensorflow:Can save best model only with val_psnr available, skipping.
+118/242 [=============>................] - ETA: 18:47:46 - loss: 0.1957 - psnr: 61.7172WARNING:tensorflow:Can save best model only with val_psnr available, skipping.
+118/242 [=============>................] - ETA: 18:47:46 - loss: 0.1957 - psnr: 61.7172WARNING:tensorflow:Can save best model only with val_psnr available, skipping.
+119/242 [=============>................] - ETA: 18:30:18 - loss: 0.1956 - psnr: 61.7177WARNING:tensorflow:Can save best model only with val_psnr available, skipping.
+120/242 [=============>................] - ETA: 18:12:58 - loss: 0.1953 - psnr: 61.7220WARNING:tensorflow:Can save best model only with val_psnr available, skipping.
+121/242 [==============>...............] - ETA: 17:55:57 - loss: 0.1952 - psnr: 61.7221WARNING:tensorflow:Can save best model only with val_psnr available, skipping.
+121/242 [==============>...............] - ETA: 17:55:57 - loss: 0.1952 - psnr: 61.7221WARNING:tensorflow:Can save best model only with val_psnr available, skipping.
+122/242 [==============>...............] - ETA: 17:39:18 - loss: 0.1949 - psnr: 61.7287WARNING:tensorflow:Can save best model only with val_psnr available, skipping.
+123/242 [==============>...............] - ETA: 17:22:51 - loss: 0.1943 - psnr: 61.7528WARNING:tensorflow:Can save best model only with val_psnr available, skipping.
+124/242 [==============>...............] - ETA: 17:06:39 - loss: 0.1946 - psnr: 61.7422WARNING:tensorflow:Can save best model only with val_psnr available, skipping.
+125/242 [==============>...............] - ETA: 16:50:53 - loss: 0.1951 - psnr: 61.7218WARNING:tensorflow:Can save best model only with val_psnr available, skipping.
+126/242 [==============>...............] - ETA: 16:35:08 - loss: 0.1954 - psnr: 61.6994WARNING:tensorflow:Can save best model only with val_psnr available, skipping.
+127/242 [==============>...............] - ETA: 16:19:35 - loss: 0.1952 - psnr: 61.7024WARNING:tensorflow:Can save best model only with val_psnr available, skipping.
+127/242 [==============>...............] - ETA: 16:19:35 - loss: 0.1952 - psnr: 61.7024WARNING:tensorflow:Can save best model only with val_psnr available, skipping.
+128/242 [==============>...............] - ETA: 16:04:25 - loss: 0.1952 - psnr: 61.7009WARNING:tensorflow:Can save best model only with val_psnr available, skipping.
+128/242 [==============>...............] - ETA: 16:04:25 - loss: 0.1952 - psnr: 61.7009WARNING:tensorflow:Can save best model only with val_psnr available, skipping.
+129/242 [==============>...............] - ETA: 15:49:47 - loss: 0.1953 - psnr: 61.6945WARNING:tensorflow:Can save best model only with val_psnr available, skipping.
+129/242 [==============>...............] - ETA: 15:49:47 - loss: 0.1953 - psnr: 61.6945WARNING:tensorflow:Can save best model only with val_psnr available, skipping.
+130/242 [===============>..............] - ETA: 15:35:18 - loss: 0.1948 - psnr: 61.7110WARNING:tensorflow:Can save best model only with val_psnr available, skipping.
+130/242 [===============>..............] - ETA: 15:35:18 - loss: 0.1948 - psnr: 61.7110WARNING:tensorflow:Can save best model only with val_psnr available, skipping.
+131/242 [===============>..............] - ETA: 15:20:59 - loss: 0.1946 - psnr: 61.7203WARNING:tensorflow:Can save best model only with val_psnr available, skipping.
+131/242 [===============>..............] - ETA: 15:20:59 - loss: 0.1946 - psnr: 61.7203WARNING:tensorflow:Can save best model only with val_psnr available, skipping.
+132/242 [===============>..............] - ETA: 15:07:53 - loss: 0.1957 - psnr: 61.6878WARNING:tensorflow:Can save best model only with val_psnr available, skipping.
+132/242 [===============>..............] - ETA: 15:07:53 - loss: 0.1957 - psnr: 61.6878WARNING:tensorflow:Can save best model only with val_psnr available, skipping.
+133/242 [===============>..............] - ETA: 14:54:11 - loss: 0.1961 - psnr: 61.6810WARNING:tensorflow:Can save best model only with val_psnr available, skipping.
+134/242 [===============>..............] - ETA: 14:40:29 - loss: 0.1959 - psnr: 61.6907WARNING:tensorflow:Can save best model only with val_psnr available, skipping.
+134/242 [===============>..............] - ETA: 14:40:29 - loss: 0.1959 - psnr: 61.6907WARNING:tensorflow:Can save best model only with val_psnr available, skipping.
+135/242 [===============>..............] - ETA: 14:26:42 - loss: 0.1955 - psnr: 61.7181WARNING:tensorflow:Can save best model only with val_psnr available, skipping.
+136/242 [===============>..............] - ETA: 14:12:53 - loss: 0.1958 - psnr: 61.7032WARNING:tensorflow:Can save best model only with val_psnr available, skipping.
+137/242 [===============>..............] - ETA: 13:59:13 - loss: 0.1955 - psnr: 61.7229WARNING:tensorflow:Can save best model only with val_psnr available, skipping.
+138/242 [================>.............] - ETA: 13:45:47 - loss: 0.1955 - psnr: 61.7177WARNING:tensorflow:Can save best model only with val_psnr available, skipping.
+139/242 [================>.............] - ETA: 13:32:30 - loss: 0.1951 - psnr: 61.7268WARNING:tensorflow:Can save best model only with val_psnr available, skipping.
+140/242 [================>.............] - ETA: 13:19:24 - loss: 0.1953 - psnr: 61.7155WARNING:tensorflow:Can save best model only with val_psnr available, skipping.
+141/242 [================>.............] - ETA: 13:06:30 - loss: 0.1973 - psnr: 61.6565WARNING:tensorflow:Can save best model only with val_psnr available, skipping.
+142/242 [================>.............] - ETA: 12:53:46 - loss: 0.1966 - psnr: 61.6861WARNING:tensorflow:Can save best model only with val_psnr available, skipping.
+143/242 [================>.............] - ETA: 12:41:12 - loss: 0.1956 - psnr: 61.7548WARNING:tensorflow:Can save best model only with val_psnr available, skipping.
+144/242 [================>.............] - ETA: 12:28:52 - loss: 0.1960 - psnr: 61.7402WARNING:tensorflow:Can save best model only with val_psnr available, skipping.
